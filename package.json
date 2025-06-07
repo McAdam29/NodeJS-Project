@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "description": "Test Code for Interview",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McAdam29/NodeJS-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/McAdam29/NodeJS-Project/issues"
+  },
+  "homepage": "https://github.com/McAdam29/NodeJS-Project#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "sequelize": "^6.37.7",
+    "sequelize-cli": "^6.6.3"
+  }
+}
